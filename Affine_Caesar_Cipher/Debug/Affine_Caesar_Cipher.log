@@ -1,4 +1,0 @@
-﻿  Source.cpp
-C:\Users\Mohammed\source\repos\Affine_Caesar_Cipher\Affine_Caesar_Cipher\Source.cpp(116,23): warning C4018: '<': signed/unsigned mismatch
-C:\Users\Mohammed\source\repos\Affine_Caesar_Cipher\Affine_Caesar_Cipher\Source.cpp(141,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
-  Affine_Caesar_Cipher.vcxproj -> C:\Users\Mohammed\source\repos\Affine_Caesar_Cipher\Debug\Affine_Caesar_Cipher.exe
